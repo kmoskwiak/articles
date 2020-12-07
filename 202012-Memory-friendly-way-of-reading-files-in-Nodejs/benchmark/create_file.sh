@@ -1,0 +1,1 @@
+head -c 1000000000 /dev/urandom > ./app/file
